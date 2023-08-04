@@ -1,5 +1,14 @@
 ﻿
+
 --what is database and its types?
+/*Ans: Data : statistics it is raw and unprocessed . ex- name , class , marks etc.
+
+information : when data is processed . ” record is also information “. example – pass or fail table etc.
+
+Database : an organized collection of data and information or interrelated data collected at one place.
+*/
+
+
 --what is relational database?
 --what is schema?
 --what is normalization
@@ -128,3 +137,6 @@ select --parent query
 from ( 
 	select top 1 title, firstname from [Person].[Person] --sub / child query
 	) as t
+
+
+
