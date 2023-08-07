@@ -1,4 +1,9 @@
 ﻿
+--What is object in database?
+--what is identifier and its rules? (start: alphabets, _), (alphabets, _, numbers)
+-- space not allowed, reservered words not allowed 
+
+create table [the table ]
 
 --what is database and its types?
 /*Ans: Data : statistics it is raw and unprocessed . ex- name , class , marks etc.
